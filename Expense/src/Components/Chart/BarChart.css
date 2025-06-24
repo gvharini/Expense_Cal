@@ -9,9 +9,9 @@
   .chart-bar__inner {
     height: 100%;
     width: 70%;
-    border: 1px solid #313131;
+    border: 1px solid #cfcc32;
     border-radius: 12px;
-    background-color: #7f7878;
+    background-color: #c4da83;
     overflow: hidden;
     display: flex;
     flex-direction: column;
